@@ -148,6 +148,6 @@ The starter kit includes a working example app that puts all of the above to use
 
 ---
 
-## Questions?  Okeke
+## Questions?  Okeke Okeke
 
 Check out the [FAQ](./docs/FAQ.md)
