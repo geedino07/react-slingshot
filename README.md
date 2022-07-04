@@ -148,7 +148,7 @@ The starter kit includes a working example app that puts all of the above to use
 
 ---
 
-## Questions?  Okeke Okeke GERALDINO Nwogbo
+## Questions?  EKENE Nwogbo Okeke
 
 
 
